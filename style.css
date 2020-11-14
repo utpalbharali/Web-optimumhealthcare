@@ -1,0 +1,40 @@
+.py-80 {
+  padding: 80px 0;
+}
+
+header .carousel-inner img {
+  max-height: 380px;
+}
+
+header .appointment {
+  max-height: 380px;
+}
+
+footer .fa {
+  font-size: 1.5rem;
+}
+
+#features .featured-icon {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#features .featured-icon .fa {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 3.2em;
+  color: #065eb1;
+}
+
+#aboutus {
+  background: url("images/aboutusbg.jpg") no-repeat;
+  background-size: cover;
+  background-position-y: bottom;
+}
+
+#aboutus .bg-overlay {
+  background: rgba(0, 102, 211, 0.675);
+  height: 100%;
+}
+/*# sourceMappingURL=style.css.map */
