@@ -53,6 +53,8 @@ footer .fa {
   .navbar .nav-item:hover .dropdown-menu{ transition: .3s; opacity:1; visibility:visible; top:100%; transform: rotateX(0deg);
   }
 
+  
+
   .navbar-toggler-icon {
     display: inline-block;
     width: 1.5em;
